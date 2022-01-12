@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Tip Calculator </title>
+	</head>
+	<body>
+		<h1> Tip Calculator</h1>
+	</body>
+	<div id="container">
+		bill-Amount: <input id="bill-amount" type="number">
+		
+		Tip Parcentage: <input id="tip-parcentage" type="number">
+		
+		Tip-Amount: <input id="tip-amount" type="number">
+		
+		Total-bill: <input id="total-bill" type="number">
+
+	  
+		
+	   <button id="btn"> calculate </button>
+	   
+	   
+	</div>
+
+
+	</div>
+
+		</body>
+		</html>
